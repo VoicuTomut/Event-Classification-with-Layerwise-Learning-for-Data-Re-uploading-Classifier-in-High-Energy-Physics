@@ -23,14 +23,14 @@ The large experiments conducted in the field of particle physics require the det
 
 [7] 
 
-**Presentation:**
-
+**Source code:**
 
 **To be added**
+
 A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
 
-**Source code :**
+**Resource Estimate:**
 
+We intend to use the power-up prize to further investigate the algorithms and try different approaches to increase the accuracy of our model. Besides testing the developed model on the quantum hardware access provided by AWS.
 
-**To be added**
-A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).
+The usage of the additional power-up credits by the team members won't be limited to the Open hackathon challenge, rather further research will be conducted afterwards on how to improve and generalize the model, including research on improving the circuit architecture and applying different optimization methods, including the ones we implemented during the QML Challenges.
