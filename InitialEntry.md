@@ -2,7 +2,7 @@
 
 Entangled_Nets
 
-**Project Description: **
+**Project Description:**
 
 The aim of this project is to demonstrate the method of Data-reuploading to classify a certain dataset.
 
