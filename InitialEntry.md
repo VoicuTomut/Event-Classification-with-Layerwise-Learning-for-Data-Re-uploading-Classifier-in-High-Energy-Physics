@@ -36,27 +36,31 @@ Note: This is a draft code for the initial entry for the AWS Power-up. The final
 We intend to use the power-up prize to further investigate the algorithms and try different approaches to increase the accuracy of our model using simulators. Besides testing the developed model on the quantum hardware access provided by AWS.
 
 (Aspen-8)
-Task charges: 1 task x $0.30 / task = $0.30
-Shots charges: 1,000 shots x $0.00035 / shot = $0.35
-Total charges/Task: $0.65 = $0.30 + $0.35
-
+<ul>
+<li>Task charges: 1 task x $0.30 / task = $0.30
+<li>Shots charges: 1,000 shots x $0.00035 / shot = $0.35
+<li>Total charges/Task: $0.65 = $0.30 + $0.35
+<ul>
 1Qubit testing:
 <ul>
  <li> Number of Tasks: 1000
   <li>Total charges: $650=1000*$0.65
-<ul>
+</ul>
 2Qubits testing:
 <li>Number of Tasks: 1000
 <li>Total charges: $650=1000*$0.65
 
 1 Qubit training:
-Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)
-Total charges: $1300=2000*$0.65
-
+<ul>
+<li>Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)
+<li>Total charges: $1300=2000*$0.65
+</ul>
+ 
 2 Qubit training:
-Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)
-Total charges: $1300=2000*$0.65
-
+<ul>
+<li>Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)
+<li>Total charges: $1300=2000*$0.65
+</ul>
 Total resourece estimation: $3900
 
 
