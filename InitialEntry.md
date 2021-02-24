@@ -37,29 +37,29 @@ We intend to use the power-up prize to further investigate the algorithms and tr
 
 (Aspen-8)
 <ul>
-<li>Task charges: 1 task x $0.30 / task = $0.30
-<li>Shots charges: 1,000 shots x $0.00035 / shot = $0.35
-<li>Total charges/Task: $0.65 = $0.30 + $0.35
+ <li>Task charges: 1 task x $0.30 / task = $0.30</li>
+<li>Shots charges: 1,000 shots x $0.00035 / shot = $0.35</li>
+<li>Total charges/Task: $0.65 = $0.30 + $0.35</li>
 <ul>
 1Qubit testing:
 <ul>
- <li> Number of Tasks: 1000
-  <li>Total charges: $650=1000*$0.65
+ <li> Number of Tasks: 1000</li>
+  <li>Total charges: $650=1000*$0.65</li>
 </ul>
 2Qubits testing:
-<li>Number of Tasks: 1000
-<li>Total charges: $650=1000*$0.65
+<li>Number of Tasks: 1000</li>
+<li>Total charges: $650=1000*$0.65</li>
 
 1 Qubit training:
 <ul>
-<li>Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)
-<li>Total charges: $1300=2000*$0.65
+<li>Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)</li>
+<li>Total charges: $1300=2000*$0.65</li>
 </ul>
  
 2 Qubit training:
 <ul>
-<li>Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)
-<li>Total charges: $1300=2000*$0.65
+<li>Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)</li>
+<li>Total charges: $1300=2000*$0.65</li>
 </ul>
 Total resourece estimation: $3900
 
