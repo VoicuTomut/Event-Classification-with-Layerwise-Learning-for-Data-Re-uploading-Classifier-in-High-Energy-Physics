@@ -42,12 +42,12 @@ Total charges/Task: $0.65 = $0.30 + $0.35
 
 1Qubit testing:
 <ul>
-  Number of Tasks: 1000
-  Total charges: $650=1000*$0.65
+ <li> Number of Tasks: 1000
+  <li>Total charges: $650=1000*$0.65
 <ul>
 2Qubits testing:
-Number of Tasks: 1000
-Total charges: $650=1000*$0.65
+<li>Number of Tasks: 1000
+<li>Total charges: $650=1000*$0.65
 
 1 Qubit training:
 Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)
