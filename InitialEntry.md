@@ -41,29 +41,30 @@ Task charges: 1 task x $0.30 / task = $0.30
 Shots charges: 1,000 shots x $0.00035 / shot = $0.35
 Total charges/Task: $0.65 = $0.30 + $0.35
 Number of Tasks: 1000
-Total charges: $350=1000*$0.35
+Total charges: $650=1000*$0.65
 
 2Qubits testing:
 Task charges: 1 task x $0.30 / task = $0.30
 Shots charges: 1,000 shots x $0.00035 / shot = $0.35
 Total charges/Task: $0.65 = $0.30 + $0.35
 Number of Tasks: 1000
-Total charges: $350=1000*$0.35
+Total charges: $650=1000*$0.65
 
 1 Qubit training:
 Task charges: 1 task x $0.30 / task = $0.30
 Shots charges: 1,000 shots x $0.00035 / shot = $0.35
 Total charges/Task: $0.65 = $0.30 + $0.35
-Number of Tasks: 200*20=40000 (20 epoch 200 tasks/epoch)
-Total charges: $1400=4000*$0.35
+Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)
+Total charges: $1300=2000*$0.65
 
 2 Qubit training:
 Task charges: 1 task x $0.30 / task = $0.30
 Shots charges: 1,000 shots x $0.00035 / shot = $0.35
 Total charges/Task: $0.65 = $0.30 + $0.35
-Number of Tasks: 200*20=40000 (20 epoch 200 tasks/epoch)
-Total charges: $1400=4000*$0.35
+Number of Tasks: 200*10=20000 (10 epoch 200 tasks/epoch)
+Total charges: $1300=2000*$0.65
 
-(just an estimation)
+Total resourece estimation: $3900
 
-The usage of the additional power-up credits by the team members won't be limited to the Open hackathon challenge, rather further research will be conducted afterward on how to improve and generalize the model, including research on improving the circuit architecture and applying different optimization methods, including the ones we implemented during the QML Challenges.
+
+
