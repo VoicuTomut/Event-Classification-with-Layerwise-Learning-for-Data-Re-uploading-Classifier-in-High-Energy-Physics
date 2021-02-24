@@ -47,8 +47,10 @@ We intend to use the power-up prize to further investigate the algorithms and tr
   <li>Total charges: $650=1000*$0.65</li>
 </ul>
 2Qubits testing:
+<ul>
 <li>Number of Tasks: 1000</li>
 <li>Total charges: $650=1000*$0.65</li>
+</ul>
 
 1 Qubit training:
 <ul>
