@@ -12,7 +12,6 @@ Furthermore, since the development of quantum hardware with a sufficient number 
 This project aims to use the method of data-reuploading, where qubits will be used as quantum classifiers to classify a certain dataset with high accuracy and the parametrized quantum circuit, whose variables are used to construct a cost function that should be minimized "classically". For our model, the SUSY dataset [1] will be considered.
 
 
-
 [1] [SUSY Data Set - UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/SUSY#)
 
 [2] [Event Classification with Quantum Machine Learning in High-Energy Physics](https://arxiv.org/abs/2002.09935)
