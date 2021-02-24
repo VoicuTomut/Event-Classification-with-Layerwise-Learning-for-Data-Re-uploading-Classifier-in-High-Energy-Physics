@@ -6,7 +6,7 @@ Project Organization
 ------------
 
     ├── 
-    ├── Data                           <- Piece of "SUSY" data set that we used
+    ├── Data                           <- A piece of "SUSY" data set that we used
     ├── README.md                      <- The top-level README .
     │
     ├── Layer performance             <- Simulation of 20 epochs experiments with a 5000 test data set.
