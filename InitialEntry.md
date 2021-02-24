@@ -40,7 +40,7 @@ We intend to use the power-up prize to further investigate the algorithms and tr
  <li>Task charges: 1 task x $0.30 / task = $0.30</li>
 <li>Shots charges: 1,000 shots x $0.00035 / shot = $0.35</li>
 <li>Total charges/Task: $0.65 = $0.30 + $0.35</li>
-<ul>
+</ul>
 1Qubit testing:
 <ul>
  <li> Number of Tasks: 1000</li>
