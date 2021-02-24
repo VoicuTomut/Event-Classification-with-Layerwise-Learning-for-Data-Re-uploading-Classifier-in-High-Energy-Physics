@@ -16,7 +16,7 @@ Project Organization
     │   └── 1Qubit_4Layers_3var       
     │
     ├── Best     
-    │   ├── Edu best code       <- A default Sphinx project; see sphinx-doc.org for details
+    │   ├── Edu best code       <-Best performing code and amazing results
     │
     
     etc  ###Work in progress
