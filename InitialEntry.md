@@ -4,9 +4,13 @@ Entangled_Nets
 
 **Project Description:**
 
-The aim of this project is to demonstrate the method of data-reuploading, where qubits will be used as quantum classifiers to classify a certain dataset with high accuracy. In this project, the SUSY dataset [1] will be considered.
+The large experiments conducted in the field of particle physics require the detection and analysis of data produced in particle collisions that occurred using high-energy accelerators such as the LHC [2]. In these experiments, particles that are created by collisions are observed by layers of high-precision detectors surrounding the collision points, which produces large amounts of data about the collision. This motivated the use of "classical" machine learning techniques in different aspects to improve the performance and analysis of the data. Moreover, these developed techniques are also adapted to quantum computing, e.g, the unfolding measurement distributions via quantum annealing [3]. Intending to take advantage of both fields, the techniques in quantum machine learning, which are considered as one of the quantum computing algorithms that could bring quantum advantages over classical methods [4][5], will be used.
 
-The large experiments conducted in the field of particle physics require the detection and analysis of data produced in particle collisions that occurred using high-energy accelerators such as the LHC [2]. In these experiments, particles that are created by collisions are observed by layers of high-precision detectors surrounding the collision points, which produces a large amount of data about the collision. This motivated the use of "classical" machine learning techniques in different aspects to improve the analysis and performance. Yet these developed techniques are also adapted to quantum computing, e.g, the unfolding measurement distributions via quantum annealing [3]. Intending to take advantage of both fields, the techniques in quantum machine learning are used, which are considered as one of the quantum computing algorithms that could bring quantum advantages over classical methods, especially with the accelerated development of quantum hardwares [4][5].
+Furthermore, since the development of quantum hardware with a sufficient number of qubits is still in progress, circuits that make use of fewer qubits are more plausible to consider. Besides, such circuits may prove relevant even if they do not provide any quantum advantage, since they may be useful parts of larger circuits. We will use the idea of data reuploading discuss by Pérez-Salinas et al. [6], where it is shown that it's possible to load a single qubit with arbitrary dimensional data and then use it as a universal quantum classifier.
+
+
+This project aims to use the method of data-reuploading, where qubits will be used as quantum classifiers to classify a certain dataset with high accuracy and the parametrized quantum circuit, whose variables are used to construct a cost function that should be minimized "classically". For our model, the SUSY dataset [1] will be considered.
+
 
 
 [1] [SUSY Data Set - UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/SUSY#)
@@ -21,16 +25,17 @@ The large experiments conducted in the field of particle physics require the det
 
 [6] [Data re-uploading for a universal quantum classifier, Adrián Pérez-Salinas, Alba Cervera-Lierta, Elies Gil-Fuster, José I. Latorre](https://arxiv.org/abs/1907.02085)
 
-[7] 
 
 **Source code:**
 
-**To be added**
+[The draft source code](https://github.com/VoicuTomut/Event-Classification-with-data-reuploading-in-High-Energy-Physics/blob/main/Data%20visualisation.ipynb)
 
-A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
+Note: This is a draft code for the initial entry for the AWS Power-up. The final source code will be modified and submitted next within the final deadline.
 
 **Resource Estimate:**
 
-We intend to use the power-up prize to further investigate the algorithms and try different approaches to increase the accuracy of our model. Besides testing the developed model on the quantum hardware access provided by AWS.
+We intend to use the power-up prize to further investigate the algorithms and try different approaches to increase the accuracy of our model using simulators. Besides testing the developed model on the quantum hardware access provided by AWS.
 
-The usage of the additional power-up credits by the team members won't be limited to the Open hackathon challenge, rather further research will be conducted afterwards on how to improve and generalize the model, including research on improving the circuit architecture and applying different optimization methods, including the ones we implemented during the QML Challenges.
+(Calculated expenses will be added!)
+
+The usage of the additional power-up credits by the team members won't be limited to the Open hackathon challenge, rather further research will be conducted afterward on how to improve and generalize the model, including research on improving the circuit architecture and applying different optimization methods, including the ones we implemented during the QML Challenges.
