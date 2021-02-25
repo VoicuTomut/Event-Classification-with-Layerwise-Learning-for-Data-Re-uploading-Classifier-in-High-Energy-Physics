@@ -1,4 +1,4 @@
-# Event Clssification with data re-uploading in High Energy Physics
+# Event Classification with data re-uploading in High Energy Physics
 
 ## Team name: 
 
