@@ -26,7 +26,7 @@ Project Organization
     │   ├── 2Qubits_layer_by_layer       <- similar with 1Qubit_4Layers_3var 
     │   ├── Edu                          <- Edu layer by layer with keras
     │
-    ├── Real Hardware                    <- experiments on real device.
+    ├── Real                             <- experiments on real device.
     │   ├── Real1                        <- AUC:
     │   ├── Real1                        <- AUC:
     │   ├── Real1                        <- AUC:
