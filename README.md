@@ -1,6 +1,8 @@
-# Event Clssification with data re-uploading in High-Energy Physics
+# Event Clssification with data re-uploading in High Energy Physics
 
-## Team name: Entangled_Nets
+## Team name: 
+
+Entangled_Nets
 
 ## Abstract: 
 
