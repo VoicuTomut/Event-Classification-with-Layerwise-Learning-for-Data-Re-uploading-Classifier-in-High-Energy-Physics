@@ -9,9 +9,9 @@ Project Organization
 
     │
     ├── Data 
-    │   ├── SUSY_cut         <- A piece of "SUSY" data set that we used
+    │   ├── SUSY_cut                    <- A piece of "SUSY" data set that we used
     │
-    ├── Layer performance  Pennylane             <- Simulation of 20 epochs experiments and test on data set of size 5000.
+    ├── Layer performance  Pennylane    <- Simulation of 20 epochs experiments and test on data set of size 5000.
     │   ├── 1Qubit_4Layers_3var         <- training: 500; best_AUC:0.828.
     │   ├── 2Qubit_3Layers_6var         <- training: 5000; best_AUC:0.826.
     │   ├── 2Qubit_4Layers_3var         <- training: 1000; best_AUC:0.83.
