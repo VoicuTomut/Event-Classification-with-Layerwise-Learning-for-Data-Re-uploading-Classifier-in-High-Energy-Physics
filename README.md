@@ -2,6 +2,8 @@
 
 ## Team name: Entangled_Nets
 
+## Abstract: 
+
 Project Organization
 ------------
 
