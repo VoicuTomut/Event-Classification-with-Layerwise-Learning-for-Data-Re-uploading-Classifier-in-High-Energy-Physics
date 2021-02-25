@@ -19,23 +19,23 @@ Project Organization
     │
     ├── Best performance                        
     │   ├── Edu best code               <- Edu short description +keras
-    │   ├── 1Qubit                      <- similar with 1Qubit_4Layers_3var 
+    │   └── 1Qubit                      <- similar with 1Qubit_4Layers_3var 
     │
     ├── Layer by layer                        
     │   ├── 1Qubit_layer_by_layer        <- training: ; best_AUC:
     │   ├── 2Qubits_layer_by_layer       <- similar with 1Qubit_4Layers_3var 
-    │   ├── Edu                          <- Edu layer by layer with keras
+    │   └──Edu                          <- Edu layer by layer with keras
     │
     ├── Real                             <- experiments on real device.
     │   ├── Real1                        <- AUC:
     │   ├── Real1                        <- AUC:
-    │   ├── Real1                        <- AUC:
+    │   └── Real1                        <- AUC:
     │
     ├── Data_Visualization.ipynb.        <-  some graphiscs and data information
     ├── InitialEntry                     <-  InitialEntry for power up
     ├── Presentation Notebook            <-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     ├── Requirements                     <-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    ├── README.md                        <- The top-level README .
+    └──README.md                        <- The top-level README .
     
     etc  ###Work in progress
 
