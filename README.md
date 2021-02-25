@@ -6,7 +6,7 @@ Entangled_Nets
 
 ## Abstract: 
 
-**To be further edited**
+**To be further edited!!!**
 
 The large experiments conducted in the field of particle physics require the detection and analysis of data produced in particle collisions that occurred using high-energy accelerators such as the LHC [2]. In these experiments, particles that are created by collisions are observed by layers of high-precision detectors surrounding the collision points, which produces large amounts of data about the collision. This motivated the use of "classical" machine learning techniques in different aspects to improve the performance and analysis of the data. Moreover, these developed techniques are also adapted to quantum computing, e.g, the unfolding measurement distributions via quantum annealing [3]. Intending to take advantage of both fields, the techniques in quantum machine learning, which are considered as one of the quantum computing algorithms that could bring quantum advantages over classical methods [4][5], will be used.
 
@@ -14,6 +14,7 @@ Furthermore, since the development of quantum hardware with a sufficient number 
 
 This project aims to use the method of data-reuploading, where qubits will be used as quantum classifiers to classify a certain dataset with high accuracy, and parametrized quantum circuit, whose variables are used to construct a cost function that should be minimized "classically". For our model, the SUSY dataset [1] will be considered.
 
+[References](https://github.com/VoicuTomut/Event-Classification-with-data-reuploading-in-High-Energy-Physics/blob/main/Documentation/Abstract_references.md)
 
 Project Organization
 ------------
