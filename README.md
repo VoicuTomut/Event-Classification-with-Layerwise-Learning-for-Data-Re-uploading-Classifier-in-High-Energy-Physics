@@ -13,6 +13,8 @@ Accordingly, these developed techniques are also adapted to quantum computing, e
 
 This project aims to use the method of data-reuploading, where qubits will be used as quantum classifiers to classify a certain dataset with high accuracy, and parametrized quantum circuit, whose variables are used to construct a cost function that should be minimized "classically". For our model, the SUSY dataset will be considered.
 
+[Link to QHack submision repository](https://github.com/eraraya-ricardo/qhack-2021-openproject/blob/main/QHack_Final.ipynb)
+
 Project Organization
 ------------
 
