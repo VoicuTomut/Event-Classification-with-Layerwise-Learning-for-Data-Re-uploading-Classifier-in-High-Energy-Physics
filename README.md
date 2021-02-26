@@ -34,20 +34,20 @@ Project Organization
     │   └── 1Qubit                      <- similar with 1Qubit_4Layers_3var 
     │
     ├── Layer by layer                        
-    │   ├── 1Qubit_layer_by_layer        <- training: ; best_AUC:
-    │   ├── 2Qubits_layer_by_layer       <- similar with 1Qubit_4Layers_3var 
-    │   └──Edu                          <- Edu layer by layer with keras
+    │   ├── 1Qubit_layer_by_layer                              <- train 1 qubit layer by layer
+    │   ├── 2Qubits_layer_by_layer                             <- train 2 qubit layer by layer 
+    │   └──Edu                                                 <- Edu layer by layer with keras
     │
-    ├── Real                             <- experiments on real device.
-    │   ├── Real1                        <- AUC:
-    │   ├── Real1                        <- AUC:
-    │   └── Real1                        <- AUC:
+    ├── Real                                                   <- experiments on real device.(Aspen-9)
+    │   ├── QPU_Smart_Runn_1Qubit.ipynb                        <- test 1 Qubit 3 Layers on a real device
+    │   ├── after_process_Smar_Runn.ipynb                      <- afterprocessing data from QPU_Smart_Runn_1Qubit
+    │   └── Real1                                              <- Edu best algorithm that we have on real device 
     │
-    ├── Data_Visualization.ipynb.        <-  some graphiscs and data information
-    ├── InitialEntry                     <-  InitialEntry for power up
-    ├── Presentation Notebook            <-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    ├── Requirements                     <-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    └──README.md                        <- The top-level README .
+    ├── Data_Visualization.ipynb.                              <-  data information and graphic visualization
+    ├── InitialEntry                                           <-  InitialEntry for power up
+    ├── Presentation Notebook                                  <-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    ├── Requirements                                           <-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    └──README.md                                               <- The top-level README .
     
     etc  ###Work in progress
 
