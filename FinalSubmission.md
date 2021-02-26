@@ -20,4 +20,4 @@ This project aims to use the method of data-reuploading, where qubits will be us
 
 [Jupyter notebook]()
 
-[GitHub repo]()
+[GitHub repo](https://github.com/VoicuTomut/Event-Classification-with-data-reuploading-in-High-Energy-Physics)
