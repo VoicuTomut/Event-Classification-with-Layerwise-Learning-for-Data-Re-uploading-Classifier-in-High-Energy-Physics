@@ -17,35 +17,46 @@ Project Organization
 ------------
 
     │
+    ├── Best Edu                                                <- final submission with improvemant
+    │   ├── SUSY Dataset                                        <- data set for the final submision
+    │   └── QHack_Final.ipynb                                   <- final notebook       
+    │
     ├── Data 
-    │   ├── SUSY_cut                    <- A piece of "SUSY" data set that we used
+    │   ├── SUSY_cut                                            <- A piece of "SUSY" data set that we used
     │
-    ├── Layer performance  Pennylane    <- Simulation of 20 epochs experiments and test on data set of size 5000.
-    │   ├── 1Qubit_4Layers_3var         <- training: 500; best_AUC:0.828.
-    │   ├── 2Qubit_3Layers_6var         <- training: 5000; best_AUC:0.826.
-    │   ├── 2Qubit_4Layers_3var         <- training: 1000; best_AUC:0.83.
-    │   └── 2Qubit_5Layers_3var         <- training: 1000; best_AUC:0.809.
+    ├── Different tioes of implementation                       <- Simulation of 20 epochs experiments and test on data set of size 5000.
+    │   ├── 1Qubit_4Layers_3var                                 <- training: 500; best_AUC:0.828.
+    │   ├── 2Qubit_3Layers_6var                                 <- training: 5000; best_AUC:0.826.
+    │   ├── 2Qubit_4Layers_3var                                 <- training: 1000; best_AUC:0.83.
+    │   └── 2Qubit_5Layers_3var                                 <- training: 1000; best_AUC:0.809.
     │
-    ├── Best performance                        
-    │   ├── Edu best code               <- Edu short description +keras
-    │   └── 1Qubit                      <- similar with 1Qubit_4Layers_3var 
+    ├── Best Edu                                                <- Best implementation made by Edu
+    │   ├── SUSY Dataset                                        <- data set for the final submision
+    │   └── QHack_Final.ipynb                                   <- final notebook       
     │
     ├── Layer by layer                        
-    │   ├── 1Qubit_layer_by_layer                              <- train 1 qubit layer by layer
-    │   ├── 2Qubits_layer_by_layer                             <- train 2 qubit layer by layer 
-    │   └──Edu                                                 <- Edu layer by layer with keras
+    │   ├── 1Qubit_layer_by_layer                               <- train 1 qubit layer by layer
+    │   └── 2Qubits_layer_by_layer                              <- train 2 qubit layer by layer 
+    │   
+    ├── Optimizers_comparasion                                  <- A comparation of the available optimizers
+    │   ├── Adagrad_Optimizer.ipynb     
+    │   ├── Adam_Optimizer.ipynb  
+    │   └── GradientDescendent_Optimizer.ipynb  
+    │   
+    ├── Real                                                    <- experiments on real device.(Aspen-9) (for the best option on real device see the QHack_Final.ipynb.)
+    │   ├── QPU_Smart_Runn_1Qubit.ipynb                         <- test 1 Qubit 3 Layers on a real device
+    │   └──  after_process_Smar_Runn.ipynb                      <- afterprocessing data from QPU_Smart_Runn_1Qubit
+    │   
+    ├── Data_Visualization.ipynb.                               <-  data information and graphic visualization
+    │  
+    ├── FinalSubmission.ipynb                                   <- Yeeei!! We are ready to win!!
     │
-    ├── Real                                                   <- experiments on real device.(Aspen-9)
-    │   ├── QPU_Smart_Runn_1Qubit.ipynb                        <- test 1 Qubit 3 Layers on a real device
-    │   ├── after_process_Smar_Runn.ipynb                      <- afterprocessing data from QPU_Smart_Runn_1Qubit
-    │   └── Real1                                              <- Edu best algorithm that we have on real device 
+    ├── InitialEntry                                            <-  InitialEntry for power up
     │
-    ├── Data_Visualization.ipynb.                              <-  data information and graphic visualization
-    ├── InitialEntry                                           <-  InitialEntry for power up
-    ├── Presentation Notebook                                  <-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    ├── Requirements                                           <-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    └──README.md                                               <- The top-level README .
+    ├── QHack_Final.ipynb                                       <-  Final Notebook
+    │
+    └──README.md                                                <- The top-level README .
     
-    etc  ###Work in progress
+
 
 --------
