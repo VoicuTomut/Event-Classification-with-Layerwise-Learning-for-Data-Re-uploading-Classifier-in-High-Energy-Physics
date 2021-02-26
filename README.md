@@ -43,7 +43,7 @@ Project Organization
     │   ├── Adam_Optimizer.ipynb  
     │   └── GradientDescendent_Optimizer.ipynb  
     │   
-    ├── Real                                                    <- experiments on real device.(Aspen-9) (for the best option on real device see the QHack_Final.ipynb.)
+    ├── Real                                                    <- experiments on real device.(Aspen-9) (for the best option on real device and simualtor see Best Edu)
     │   ├── QPU_Smart_Runn_1Qubit.ipynb                         <- test 1 Qubit 3 Layers on a real device
     │   └──  after_process_Smar_Runn.ipynb                      <- afterprocessing data from QPU_Smart_Runn_1Qubit
     │   
